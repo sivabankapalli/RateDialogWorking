@@ -1,0 +1,124 @@
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\bin\Debug\netcoreapp2.2\Content\NewUserGreeting.de.json
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\bin\Debug\netcoreapp2.2\Content\NewUserGreeting.es.json
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\bin\Debug\netcoreapp2.2\Content\NewUserGreeting.fr.json
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\bin\Debug\netcoreapp2.2\Content\NewUserGreeting.it.json
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\bin\Debug\netcoreapp2.2\Content\NewUserGreeting.json
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\bin\Debug\netcoreapp2.2\Content\NewUserGreeting.zh.json
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\bin\Debug\netcoreapp2.2\Content\ReturningUserGreeting.de.json
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\bin\Debug\netcoreapp2.2\Content\ReturningUserGreeting.es.json
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\bin\Debug\netcoreapp2.2\Content\ReturningUserGreeting.fr.json
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\bin\Debug\netcoreapp2.2\Content\ReturningUserGreeting.it.json
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\bin\Debug\netcoreapp2.2\Content\ReturningUserGreeting.json
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\bin\Debug\netcoreapp2.2\Content\ReturningUserGreeting.zh.json
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\bin\Debug\netcoreapp2.2\MyAssistant1.deps.json
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\bin\Debug\netcoreapp2.2\MyAssistant1.runtimeconfig.json
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\bin\Debug\netcoreapp2.2\MyAssistant1.runtimeconfig.dev.json
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\bin\Debug\netcoreapp2.2\MyAssistant1.dll
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\bin\Debug\netcoreapp2.2\MyAssistant1.pdb
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\bin\Debug\netcoreapp2.2\de\MyAssistant1.resources.dll
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\bin\Debug\netcoreapp2.2\es\MyAssistant1.resources.dll
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\bin\Debug\netcoreapp2.2\fr\MyAssistant1.resources.dll
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\bin\Debug\netcoreapp2.2\it\MyAssistant1.resources.dll
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\bin\Debug\netcoreapp2.2\zh\MyAssistant1.resources.dll
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.csprojAssemblyReference.cache
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.Responses.Cancel.CancelStrings.resources
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.Responses.Escalate.EscalateStrings.resources
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.Responses.Main.MainStrings.resources
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.Responses.Onboarding.OnboardingStrings.resources
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.Responses.Cancel.CancelStrings.de.resources
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.Responses.Cancel.CancelStrings.es.resources
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.Responses.Cancel.CancelStrings.fr.resources
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.Responses.Cancel.CancelStrings.it.resources
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.Responses.Cancel.CancelStrings.zh.resources
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.Responses.Escalate.EscalateStrings.de.resources
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.Responses.Escalate.EscalateStrings.es.resources
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.Responses.Escalate.EscalateStrings.fr.resources
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.Responses.Escalate.EscalateStrings.it.resources
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.Responses.Escalate.EscalateStrings.zh.resources
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.Responses.Main.MainStrings.de.resources
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.Responses.Main.MainStrings.es.resources
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.Responses.Main.MainStrings.fr.resources
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.Responses.Main.MainStrings.it.resources
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.Responses.Main.MainStrings.zh.resources
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.Responses.Onboarding.OnboardingStrings.de.resources
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.Responses.Onboarding.OnboardingStrings.es.resources
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.Responses.Onboarding.OnboardingStrings.fr.resources
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.Responses.Onboarding.OnboardingStrings.it.resources
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.Responses.Onboarding.OnboardingStrings.zh.resources
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.csproj.GenerateResource.cache
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.csproj.CoreCompileInputs.cache
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.RazorAssemblyInfo.cache
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.RazorAssemblyInfo.cs
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.AssemblyInfoInputs.cache
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.AssemblyInfo.cs
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\de\MyAssistant1.resources.dll
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\es\MyAssistant1.resources.dll
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\fr\MyAssistant1.resources.dll
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\it\MyAssistant1.resources.dll
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\zh\MyAssistant1.resources.dll
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.RazorTargetAssemblyInfo.cache
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.dll
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.pdb
+C:\Users\mastan\Documents\Visual Studio 2019\Projects\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.Responses.RateAnswer.RateAnswerStrings.resources
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\bin\Debug\netcoreapp2.2\Content\NewUserGreeting.de.json
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\bin\Debug\netcoreapp2.2\Content\NewUserGreeting.es.json
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\bin\Debug\netcoreapp2.2\Content\NewUserGreeting.fr.json
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\bin\Debug\netcoreapp2.2\Content\NewUserGreeting.it.json
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\bin\Debug\netcoreapp2.2\Content\NewUserGreeting.json
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\bin\Debug\netcoreapp2.2\Content\NewUserGreeting.zh.json
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\bin\Debug\netcoreapp2.2\Content\ReturningUserGreeting.de.json
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\bin\Debug\netcoreapp2.2\Content\ReturningUserGreeting.es.json
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\bin\Debug\netcoreapp2.2\Content\ReturningUserGreeting.fr.json
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\bin\Debug\netcoreapp2.2\Content\ReturningUserGreeting.it.json
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\bin\Debug\netcoreapp2.2\Content\ReturningUserGreeting.json
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\bin\Debug\netcoreapp2.2\Content\ReturningUserGreeting.zh.json
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\bin\Debug\netcoreapp2.2\MyAssistant1.deps.json
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\bin\Debug\netcoreapp2.2\MyAssistant1.runtimeconfig.json
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\bin\Debug\netcoreapp2.2\MyAssistant1.runtimeconfig.dev.json
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\bin\Debug\netcoreapp2.2\MyAssistant1.dll
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\bin\Debug\netcoreapp2.2\MyAssistant1.pdb
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\bin\Debug\netcoreapp2.2\de\MyAssistant1.resources.dll
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\bin\Debug\netcoreapp2.2\es\MyAssistant1.resources.dll
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\bin\Debug\netcoreapp2.2\fr\MyAssistant1.resources.dll
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\bin\Debug\netcoreapp2.2\it\MyAssistant1.resources.dll
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\bin\Debug\netcoreapp2.2\zh\MyAssistant1.resources.dll
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.csprojAssemblyReference.cache
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.Responses.Cancel.CancelStrings.resources
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.Responses.Escalate.EscalateStrings.resources
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.Responses.Main.MainStrings.resources
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.Responses.Onboarding.OnboardingStrings.resources
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.Responses.RateAnswer.RateAnswerStrings.resources
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.Responses.Cancel.CancelStrings.de.resources
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.Responses.Cancel.CancelStrings.es.resources
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.Responses.Cancel.CancelStrings.fr.resources
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.Responses.Cancel.CancelStrings.it.resources
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.Responses.Cancel.CancelStrings.zh.resources
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.Responses.Escalate.EscalateStrings.de.resources
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.Responses.Escalate.EscalateStrings.es.resources
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.Responses.Escalate.EscalateStrings.fr.resources
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.Responses.Escalate.EscalateStrings.it.resources
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.Responses.Escalate.EscalateStrings.zh.resources
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.Responses.Main.MainStrings.de.resources
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.Responses.Main.MainStrings.es.resources
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.Responses.Main.MainStrings.fr.resources
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.Responses.Main.MainStrings.it.resources
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.Responses.Main.MainStrings.zh.resources
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.Responses.Onboarding.OnboardingStrings.de.resources
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.Responses.Onboarding.OnboardingStrings.es.resources
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.Responses.Onboarding.OnboardingStrings.fr.resources
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.Responses.Onboarding.OnboardingStrings.it.resources
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.Responses.Onboarding.OnboardingStrings.zh.resources
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.csproj.GenerateResource.cache
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.csproj.CoreCompileInputs.cache
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.RazorAssemblyInfo.cache
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.RazorAssemblyInfo.cs
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.AssemblyInfoInputs.cache
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.AssemblyInfo.cs
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\de\MyAssistant1.resources.dll
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\es\MyAssistant1.resources.dll
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\fr\MyAssistant1.resources.dll
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\it\MyAssistant1.resources.dll
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\zh\MyAssistant1.resources.dll
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.RazorTargetAssemblyInfo.cache
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.dll
+C:\work\Bot_Workshop\VirtualAssistantCode\1. RateDialog\RateDialogWorking\MyAssistant1\MyAssistant1\MyAssistant1\obj\Debug\netcoreapp2.2\MyAssistant1.pdb

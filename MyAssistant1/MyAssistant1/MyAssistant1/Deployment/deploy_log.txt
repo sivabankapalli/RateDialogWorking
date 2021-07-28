@@ -1,0 +1,681 @@
+{
+  "error": null,
+  "id": "/subscriptions/15a73e1a-1e10-42ff-bb2a-d65ae2070deb/resourceGroups/msag-va-bot/providers/Microsoft.Resources/deployments/deployment_dry_run",
+  "name": "deployment_dry_run",
+  "properties": {
+    "correlationId": "ac6130b8-b052-4901-8871-db0c74ab611f",
+    "debugSetting": null,
+    "dependencies": [
+      {
+        "dependsOn": [
+          {
+            "id": "/subscriptions/15a73e1a-1e10-42ff-bb2a-d65ae2070deb/resourceGroups/msag-va-bot/providers/Microsoft.Web/serverfarms/msag-va-bot-5zvnb5e",
+            "resourceGroup": "msag-va-bot",
+            "resourceName": "msag-va-bot-5zvnb5e",
+            "resourceType": "Microsoft.Web/serverfarms"
+          }
+        ],
+        "id": "/subscriptions/15a73e1a-1e10-42ff-bb2a-d65ae2070deb/resourceGroups/msag-va-bot/providers/Microsoft.Web/sites/msag-va-bot-5zvnb5e",
+        "resourceGroup": "msag-va-bot",
+        "resourceName": "msag-va-bot-5zvnb5e",
+        "resourceType": "Microsoft.Web/sites"
+      },
+      {
+        "dependsOn": [
+          {
+            "id": "/subscriptions/15a73e1a-1e10-42ff-bb2a-d65ae2070deb/resourceGroups/msag-va-bot/providers/Microsoft.Insights/components/msag-va-bot-5zvnb5e",
+            "resourceGroup": "msag-va-bot",
+            "resourceName": "msag-va-bot-5zvnb5e",
+            "resourceType": "Microsoft.Insights/components"
+          }
+        ],
+        "id": "/subscriptions/15a73e1a-1e10-42ff-bb2a-d65ae2070deb/resourceGroups/msag-va-bot/providers/Microsoft.BotService/botServices/msag-va-bot-5zvnb5e",
+        "resourceGroup": "msag-va-bot",
+        "resourceName": "msag-va-bot-5zvnb5e",
+        "resourceType": "Microsoft.BotService/botServices"
+      },
+      {
+        "dependsOn": [
+          {
+            "id": "/subscriptions/15a73e1a-1e10-42ff-bb2a-d65ae2070deb/resourceGroups/msag-va-bot/providers/Microsoft.Web/Sites/msag-va-bot-qnahost-5zvnb5e",
+            "resourceGroup": "msag-va-bot",
+            "resourceName": "msag-va-bot-qnahost-5zvnb5e",
+            "resourceType": "Microsoft.Web/Sites"
+          },
+          {
+            "id": "/subscriptions/15a73e1a-1e10-42ff-bb2a-d65ae2070deb/resourceGroups/msag-va-bot/providers/Microsoft.Search/searchServices/msag-va-bot-search-5zvnb5e",
+            "resourceGroup": "msag-va-bot",
+            "resourceName": "msag-va-bot-search-5zvnb5e",
+            "resourceType": "Microsoft.Search/searchServices"
+          },
+          {
+            "id": "/subscriptions/15a73e1a-1e10-42ff-bb2a-d65ae2070deb/resourceGroups/msag-va-bot/providers/microsoft.insights/components/msag-va-bot-5zvnb5e",
+            "resourceGroup": "msag-va-bot",
+            "resourceName": "msag-va-bot-5zvnb5e",
+            "resourceType": "microsoft.insights/components"
+          }
+        ],
+        "id": "/subscriptions/15a73e1a-1e10-42ff-bb2a-d65ae2070deb/resourceGroups/msag-va-bot/providers/Microsoft.CognitiveServices/accounts/msag-va-bot-qna-5zvnb5e",
+        "resourceGroup": "msag-va-bot",
+        "resourceName": "msag-va-bot-qna-5zvnb5e",
+        "resourceType": "Microsoft.CognitiveServices/accounts"
+      },
+      {
+        "dependsOn": [
+          {
+            "id": "/subscriptions/15a73e1a-1e10-42ff-bb2a-d65ae2070deb/resourceGroups/msag-va-bot/providers/Microsoft.Web/serverFarms/msag-va-bot-5zvnb5e",
+            "resourceGroup": "msag-va-bot",
+            "resourceName": "msag-va-bot-5zvnb5e",
+            "resourceType": "Microsoft.Web/serverFarms"
+          }
+        ],
+        "id": "/subscriptions/15a73e1a-1e10-42ff-bb2a-d65ae2070deb/resourceGroups/msag-va-bot/providers/Microsoft.Web/sites/msag-va-bot-qnahost-5zvnb5e",
+        "resourceGroup": "msag-va-bot",
+        "resourceName": "msag-va-bot-qnahost-5zvnb5e",
+        "resourceType": "Microsoft.Web/sites"
+      },
+      {
+        "dependsOn": [
+          {
+            "id": "/subscriptions/15a73e1a-1e10-42ff-bb2a-d65ae2070deb/resourceGroups/msag-va-bot/providers/Microsoft.Web/Sites/msag-va-bot-qnahost-5zvnb5e",
+            "resourceGroup": "msag-va-bot",
+            "resourceName": "msag-va-bot-qnahost-5zvnb5e",
+            "resourceType": "Microsoft.Web/Sites"
+          },
+          {
+            "id": "/subscriptions/15a73e1a-1e10-42ff-bb2a-d65ae2070deb/resourceGroups/msag-va-bot/providers/Microsoft.Insights/components/msag-va-bot-5zvnb5e",
+            "resourceGroup": "msag-va-bot",
+            "resourceName": "msag-va-bot-5zvnb5e",
+            "resourceType": "Microsoft.Insights/components"
+          },
+          {
+            "id": "/subscriptions/15a73e1a-1e10-42ff-bb2a-d65ae2070deb/resourceGroups/msag-va-bot/providers/Microsoft.Search/searchServices/msag-va-bot-search-5zvnb5e",
+            "resourceGroup": "msag-va-bot",
+            "resourceName": "msag-va-bot-search-5zvnb5e",
+            "resourceType": "Microsoft.Search/searchServices"
+          },
+          {
+            "actionName": "listAdminKeys",
+            "apiVersion": "2015-08-19",
+            "id": "/subscriptions/15a73e1a-1e10-42ff-bb2a-d65ae2070deb/resourceGroups/msag-va-bot/providers/Microsoft.Search/searchServices/msag-va-bot-search-5zvnb5e",
+            "resourceGroup": "msag-va-bot",
+            "resourceName": "msag-va-bot-search-5zvnb5e",
+            "resourceType": "Microsoft.Search/searchServices"
+          },
+          {
+            "apiVersion": "2015-05-01",
+            "id": "/subscriptions/15a73e1a-1e10-42ff-bb2a-d65ae2070deb/resourceGroups/msag-va-bot/providers/Microsoft.Insights/components/msag-va-bot-5zvnb5e",
+            "resourceGroup": "msag-va-bot",
+            "resourceName": "msag-va-bot-5zvnb5e",
+            "resourceType": "Microsoft.Insights/components"
+          }
+        ],
+        "id": "/subscriptions/15a73e1a-1e10-42ff-bb2a-d65ae2070deb/resourceGroups/msag-va-bot/providers/Microsoft.Web/sites/msag-va-bot-qnahost-5zvnb5e/config/appsettings",
+        "resourceGroup": "msag-va-bot",
+        "resourceName": "msag-va-bot-qnahost-5zvnb5e/appsettings",
+        "resourceType": "Microsoft.Web/sites/config"
+      }
+    ],
+    "duration": "PT0S",
+    "mode": "Incremental",
+    "onErrorDeployment": null,
+    "outputs": null,
+    "parameters": {
+      "appInsightsLocation": {
+        "type": "String",
+        "value": "australiaeast"
+      },
+      "appInsightsName": {
+        "type": "String",
+        "value": "msag-va-bot-5zvnb5e"
+      },
+      "appServicePlanName": {
+        "type": "String",
+        "value": "msag-va-bot-5zvnb5e"
+      },
+      "appServicePlanSku": {
+        "type": "Object",
+        "value": {
+          "name": "S1",
+          "tier": "Standard"
+        }
+      },
+      "botServiceName": {
+        "type": "String",
+        "value": "msag-va-bot-5zvnb5e"
+      },
+      "botServiceSku": {
+        "type": "String",
+        "value": "S1"
+      },
+      "botWebAppName": {
+        "type": "String",
+        "value": "msag-va-bot-5zvnb5e"
+      },
+      "contentModeratorLocation": {
+        "type": "String",
+        "value": "australiaeast"
+      },
+      "contentModeratorName": {
+        "type": "String",
+        "value": "msag-va-bot-cm-5zvnb5e"
+      },
+      "contentModeratorSku": {
+        "type": "String",
+        "value": "S0"
+      },
+      "cosmosDbName": {
+        "type": "String",
+        "value": "msag-va-bot-5zvnb5e"
+      },
+      "location": {
+        "type": "String",
+        "value": "australiaeast"
+      },
+      "luisServiceLocation": {
+        "type": "String",
+        "value": "australiaeast"
+      },
+      "luisServiceName": {
+        "type": "String",
+        "value": "msag-va-bot-luis-5zvnb5e"
+      },
+      "luisServiceSku": {
+        "type": "String",
+        "value": "S0"
+      },
+      "microsoftAppId": {
+        "type": "String",
+        "value": "fa2042b8-ce4f-45bd-b70b-2dbf263ed99e"
+      },
+      "microsoftAppPassword": {
+        "type": "String",
+        "value": "H3lloKitty!"
+      },
+      "name": {
+        "type": "String",
+        "value": "msag-va-bot"
+      },
+      "qnaMakerSearchName": {
+        "type": "String",
+        "value": "msag-va-bot-search-5zvnb5e"
+      },
+      "qnaMakerSearchSku": {
+        "type": "String",
+        "value": "standard"
+      },
+      "qnaMakerServiceName": {
+        "type": "String",
+        "value": "msag-va-bot-qna-5zvnb5e"
+      },
+      "qnaMakerServiceSku": {
+        "type": "String",
+        "value": "S0"
+      },
+      "qnaMakerWebAppName": {
+        "type": "String",
+        "value": "msag-va-bot-qnahost-5zvnb5e"
+      },
+      "qnaServiceLocation": {
+        "type": "String",
+        "value": "australiaeast"
+      },
+      "storageAccountName": {
+        "type": "String",
+        "value": "msag-va-bot-5zvnb5e"
+      },
+      "suffix": {
+        "type": "String",
+        "value": "5zvnb5e"
+      },
+      "useContentModerator": {
+        "type": "Bool",
+        "value": true
+      },
+      "useCosmosDb": {
+        "type": "Bool",
+        "value": true
+      },
+      "useStorage": {
+        "type": "Bool",
+        "value": true
+      }
+    },
+    "parametersLink": null,
+    "providers": [
+      {
+        "id": null,
+        "namespace": "Microsoft.Resources",
+        "registrationState": null,
+        "resourceTypes": [
+          {
+            "aliases": null,
+            "apiVersions": null,
+            "locations": [
+              null
+            ],
+            "properties": null,
+            "resourceType": "deployments"
+          }
+        ]
+      },
+      {
+        "id": null,
+        "namespace": "Microsoft.DocumentDB",
+        "registrationState": null,
+        "resourceTypes": [
+          {
+            "aliases": null,
+            "apiVersions": null,
+            "locations": [
+              "australiaeast"
+            ],
+            "properties": null,
+            "resourceType": "databaseAccounts"
+          }
+        ]
+      },
+      {
+        "id": null,
+        "namespace": "Microsoft.Storage",
+        "registrationState": null,
+        "resourceTypes": [
+          {
+            "aliases": null,
+            "apiVersions": null,
+            "locations": [
+              "australiaeast"
+            ],
+            "properties": null,
+            "resourceType": "storageAccounts"
+          }
+        ]
+      },
+      {
+        "id": null,
+        "namespace": "Microsoft.Web",
+        "registrationState": null,
+        "resourceTypes": [
+          {
+            "aliases": null,
+            "apiVersions": null,
+            "locations": [
+              "australiaeast"
+            ],
+            "properties": null,
+            "resourceType": "serverFarms"
+          },
+          {
+            "aliases": null,
+            "apiVersions": null,
+            "locations": [
+              "australiaeast"
+            ],
+            "properties": null,
+            "resourceType": "sites"
+          },
+          {
+            "aliases": null,
+            "apiVersions": null,
+            "locations": [
+              null
+            ],
+            "properties": null,
+            "resourceType": "sites/config"
+          }
+        ]
+      },
+      {
+        "id": null,
+        "namespace": "Microsoft.Insights",
+        "registrationState": null,
+        "resourceTypes": [
+          {
+            "aliases": null,
+            "apiVersions": null,
+            "locations": [
+              "australiaeast"
+            ],
+            "properties": null,
+            "resourceType": "components"
+          }
+        ]
+      },
+      {
+        "id": null,
+        "namespace": "Microsoft.BotService",
+        "registrationState": null,
+        "resourceTypes": [
+          {
+            "aliases": null,
+            "apiVersions": null,
+            "locations": [
+              "global"
+            ],
+            "properties": null,
+            "resourceType": "botServices"
+          }
+        ]
+      },
+      {
+        "id": null,
+        "namespace": "Microsoft.CognitiveServices",
+        "registrationState": null,
+        "resourceTypes": [
+          {
+            "aliases": null,
+            "apiVersions": null,
+            "locations": [
+              "australiaeast",
+              "westus"
+            ],
+            "properties": null,
+            "resourceType": "accounts"
+          }
+        ]
+      },
+      {
+        "id": null,
+        "namespace": "Microsoft.Search",
+        "registrationState": null,
+        "resourceTypes": [
+          {
+            "aliases": null,
+            "apiVersions": null,
+            "locations": [
+              "australiaeast"
+            ],
+            "properties": null,
+            "resourceType": "searchServices"
+          }
+        ]
+      }
+    ],
+    "provisioningState": "Succeeded",
+    "template": null,
+    "templateHash": "12877687829899094620",
+    "templateLink": null,
+    "timestamp": "2019-08-20T04:16:57.314005+00:00",
+    "validatedResources": [
+      {
+        "apiVersion": "2018-02-01",
+        "id": "/subscriptions/15a73e1a-1e10-42ff-bb2a-d65ae2070deb/resourceGroups/msag-va-bot/providers/Microsoft.Resources/deployments/3822b5f4-d098-4b57-9ee6-3bee686aec4c",
+        "name": "3822b5f4-d098-4b57-9ee6-3bee686aec4c",
+        "properties": {
+          "mode": "Incremental",
+          "template": {
+            "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentTemplate.json#",
+            "contentVersion": "1.0.0.0",
+            "resources": []
+          }
+        },
+        "resourceGroup": "msag-va-bot",
+        "type": "Microsoft.Resources/deployments"
+      },
+      {
+        "apiVersion": "2015-04-08",
+        "id": "/subscriptions/15a73e1a-1e10-42ff-bb2a-d65ae2070deb/resourceGroups/msag-va-bot/providers/Microsoft.DocumentDB/databaseAccounts/msag-va-bot-5zvnb5e",
+        "kind": "GlobalDocumentDB",
+        "location": "australiaeast",
+        "name": "msag-va-bot-5zvnb5e",
+        "properties": {
+          "databaseAccountOfferType": "Standard",
+          "locations": [
+            {
+              "failoverPriority": 0,
+              "locationName": "australiaeast"
+            }
+          ]
+        },
+        "resourceGroup": "msag-va-bot",
+        "type": "Microsoft.DocumentDB/databaseAccounts"
+      },
+      {
+        "apiVersion": "2018-07-01",
+        "id": "/subscriptions/15a73e1a-1e10-42ff-bb2a-d65ae2070deb/resourceGroups/msag-va-bot/providers/Microsoft.Storage/storageAccounts/msagvabot5zvnb5e",
+        "kind": "StorageV2",
+        "location": "australiaeast",
+        "name": "msagvabot5zvnb5e",
+        "resourceGroup": "msag-va-bot",
+        "sku": {
+          "name": "Standard_LRS"
+        },
+        "type": "Microsoft.Storage/storageAccounts"
+      },
+      {
+        "apiVersion": "2018-02-01",
+        "id": "/subscriptions/15a73e1a-1e10-42ff-bb2a-d65ae2070deb/resourceGroups/msag-va-bot/providers/Microsoft.Web/serverFarms/msag-va-bot-5zvnb5e",
+        "location": "australiaeast",
+        "name": "msag-va-bot-5zvnb5e",
+        "properties": {},
+        "resourceGroup": "msag-va-bot",
+        "sku": {
+          "name": "S1",
+          "tier": "Standard"
+        },
+        "type": "Microsoft.Web/serverFarms"
+      },
+      {
+        "apiVersion": "2015-05-01",
+        "id": "/subscriptions/15a73e1a-1e10-42ff-bb2a-d65ae2070deb/resourceGroups/msag-va-bot/providers/Microsoft.Insights/components/msag-va-bot-5zvnb5e",
+        "kind": "web",
+        "location": "australiaeast",
+        "name": "msag-va-bot-5zvnb5e",
+        "properties": {
+          "Application_Type": "web"
+        },
+        "resourceGroup": "msag-va-bot",
+        "type": "Microsoft.Insights/components"
+      },
+      {
+        "apiVersion": "2018-02-01",
+        "dependsOn": [
+          "/subscriptions/15a73e1a-1e10-42ff-bb2a-d65ae2070deb/resourceGroups/msag-va-bot/providers/Microsoft.Web/serverfarms/msag-va-bot-5zvnb5e"
+        ],
+        "id": "/subscriptions/15a73e1a-1e10-42ff-bb2a-d65ae2070deb/resourceGroups/msag-va-bot/providers/Microsoft.Web/sites/msag-va-bot-5zvnb5e",
+        "location": "australiaeast",
+        "name": "msag-va-bot-5zvnb5e",
+        "properties": {
+          "serverFarmId": "/subscriptions/15a73e1a-1e10-42ff-bb2a-d65ae2070deb/resourceGroups/msag-va-bot/providers/Microsoft.Web/serverfarms/msag-va-bot-5zvnb5e",
+          "siteConfig": {
+            "appSettings": [
+              {
+                "name": "MicrosoftAppId",
+                "value": "fa2042b8-ce4f-45bd-b70b-2dbf263ed99e"
+              },
+              {
+                "name": "MicrosoftAppPassword",
+                "value": "H3lloKitty!"
+              }
+            ],
+            "webSocketsEnabled": true
+          }
+        },
+        "resourceGroup": "msag-va-bot",
+        "type": "Microsoft.Web/sites"
+      },
+      {
+        "apiVersion": "2018-07-12",
+        "dependsOn": [
+          "/subscriptions/15a73e1a-1e10-42ff-bb2a-d65ae2070deb/resourceGroups/msag-va-bot/providers/Microsoft.Insights/components/msag-va-bot-5zvnb5e"
+        ],
+        "id": "/subscriptions/15a73e1a-1e10-42ff-bb2a-d65ae2070deb/resourceGroups/msag-va-bot/providers/Microsoft.BotService/botServices/msag-va-bot-5zvnb5e",
+        "kind": "sdk",
+        "location": "global",
+        "name": "msag-va-bot-5zvnb5e",
+        "properties": {
+          "developerAppInsightKey": "[reference(resourceId('Microsoft.Insights/components', parameters('appInsightsName'))).InstrumentationKey]",
+          "developerAppInsightsApplicationId": "[reference(resourceId('Microsoft.Insights/components', parameters('appInsightsName'))).ApplicationId]",
+          "displayName": "msag-va-bot-5zvnb5e",
+          "endpoint": "https://msag-va-bot-5zvnb5e.azurewebsites.net/api/messages",
+          "isStreamingSupported": true,
+          "msaAppId": "fa2042b8-ce4f-45bd-b70b-2dbf263ed99e"
+        },
+        "resourceGroup": "msag-va-bot",
+        "sku": {
+          "name": "S1"
+        },
+        "type": "Microsoft.BotService/botServices"
+      },
+      {
+        "apiVersion": "2017-04-18",
+        "id": "/subscriptions/15a73e1a-1e10-42ff-bb2a-d65ae2070deb/resourceGroups/msag-va-bot/providers/Microsoft.CognitiveServices/accounts/msag-va-bot-cm-5zvnb5e",
+        "kind": "ContentModerator",
+        "location": "australiaeast",
+        "name": "msag-va-bot-cm-5zvnb5e",
+        "resourceGroup": "msag-va-bot",
+        "sku": {
+          "name": "S0"
+        },
+        "type": "Microsoft.CognitiveServices/accounts"
+      },
+      {
+        "apiVersion": "2017-04-18",
+        "id": "/subscriptions/15a73e1a-1e10-42ff-bb2a-d65ae2070deb/resourceGroups/msag-va-bot/providers/Microsoft.CognitiveServices/accounts/msag-va-bot-luis-5zvnb5e",
+        "kind": "LUIS",
+        "location": "australiaeast",
+        "name": "msag-va-bot-luis-5zvnb5e",
+        "resourceGroup": "msag-va-bot",
+        "sku": {
+          "name": "S0"
+        },
+        "type": "Microsoft.CognitiveServices/accounts"
+      },
+      {
+        "apiVersion": "2017-04-18",
+        "dependsOn": [
+          "/subscriptions/15a73e1a-1e10-42ff-bb2a-d65ae2070deb/resourceGroups/msag-va-bot/providers/Microsoft.Web/Sites/msag-va-bot-qnahost-5zvnb5e",
+          "/subscriptions/15a73e1a-1e10-42ff-bb2a-d65ae2070deb/resourceGroups/msag-va-bot/providers/Microsoft.Search/searchServices/msag-va-bot-search-5zvnb5e",
+          "/subscriptions/15a73e1a-1e10-42ff-bb2a-d65ae2070deb/resourceGroups/msag-va-bot/providers/microsoft.insights/components/msag-va-bot-5zvnb5e"
+        ],
+        "id": "/subscriptions/15a73e1a-1e10-42ff-bb2a-d65ae2070deb/resourceGroups/msag-va-bot/providers/Microsoft.CognitiveServices/accounts/msag-va-bot-qna-5zvnb5e",
+        "kind": "QnAMaker",
+        "location": "westus",
+        "name": "msag-va-bot-qna-5zvnb5e",
+        "properties": {
+          "apiProperties": {
+            "qnaRuntimeEndpoint": "[concat('https://',reference(resourceId('Microsoft.Web/sites', variables('qnaMakerWebAppName'))).hostNames[0])]"
+          }
+        },
+        "resourceGroup": "msag-va-bot",
+        "sku": {
+          "name": "S0"
+        },
+        "type": "Microsoft.CognitiveServices/accounts"
+      },
+      {
+        "apiVersion": "2015-08-19",
+        "id": "/subscriptions/15a73e1a-1e10-42ff-bb2a-d65ae2070deb/resourceGroups/msag-va-bot/providers/Microsoft.Search/searchServices/msag-va-bot-search-5zvnb5e",
+        "location": "australiaeast",
+        "name": "msag-va-bot-search-5zvnb5e",
+        "properties": {
+          "hostingMode": "default",
+          "partitionCount": 1,
+          "replicaCount": 1
+        },
+        "resourceGroup": "msag-va-bot",
+        "sku": {
+          "name": "standard"
+        },
+        "type": "Microsoft.Search/searchServices"
+      },
+      {
+        "apiVersion": "2016-08-01",
+        "dependsOn": [
+          "/subscriptions/15a73e1a-1e10-42ff-bb2a-d65ae2070deb/resourceGroups/msag-va-bot/providers/Microsoft.Web/serverFarms/msag-va-bot-5zvnb5e"
+        ],
+        "id": "/subscriptions/15a73e1a-1e10-42ff-bb2a-d65ae2070deb/resourceGroups/msag-va-bot/providers/Microsoft.Web/sites/msag-va-bot-qnahost-5zvnb5e",
+        "location": "australiaeast",
+        "name": "msag-va-bot-qnahost-5zvnb5e",
+        "properties": {
+          "enabled": true,
+          "hostingEnvironment": "",
+          "name": "msag-va-bot-qnahost-5zvnb5e",
+          "serverFarmId": "/subscriptions//subscriptions/15a73e1a-1e10-42ff-bb2a-d65ae2070deb/resourcegroups/msag-va-bot/providers/Microsoft.Web/serverfarms/msag-va-bot-5zvnb5e",
+          "siteConfig": {
+            "cors": {
+              "allowedOrigins": [
+                "*"
+              ]
+            }
+          }
+        },
+        "resourceGroup": "msag-va-bot",
+        "type": "Microsoft.Web/sites"
+      },
+      {
+        "apiVersion": "2016-08-01",
+        "dependsOn": [
+          "/subscriptions/15a73e1a-1e10-42ff-bb2a-d65ae2070deb/resourceGroups/msag-va-bot/providers/Microsoft.Web/Sites/msag-va-bot-qnahost-5zvnb5e",
+          "/subscriptions/15a73e1a-1e10-42ff-bb2a-d65ae2070deb/resourceGroups/msag-va-bot/providers/Microsoft.Insights/components/msag-va-bot-5zvnb5e",
+          "/subscriptions/15a73e1a-1e10-42ff-bb2a-d65ae2070deb/resourceGroups/msag-va-bot/providers/Microsoft.Search/searchServices/msag-va-bot-search-5zvnb5e"
+        ],
+        "id": "/subscriptions/15a73e1a-1e10-42ff-bb2a-d65ae2070deb/resourceGroups/msag-va-bot/providers/Microsoft.Web/sites/msag-va-bot-qnahost-5zvnb5e/config/appsettings",
+        "name": "msag-va-bot-qnahost-5zvnb5e/appsettings",
+        "properties": {
+          "AzureSearchAdminKey": "[listAdminKeys(resourceId('Microsoft.Search/searchServices/', variables('qnaMakerSearchName')), '2015-08-19').primaryKey]",
+          "AzureSearchName": "msag-va-bot-search-5zvnb5e",
+          "DefaultAnswer": "No good match found in KB.",
+          "PrimaryEndpointKey": "msag-va-bot-qnahost-5zvnb5e-PrimaryEndpointKey",
+          "QNAMAKER_EXTENSION_VERSION": "latest",
+          "SecondaryEndpointKey": "msag-va-bot-qnahost-5zvnb5e-SecondaryEndpointKey",
+          "UserAppInsightsAppId": "[reference(resourceId('Microsoft.Insights/components/', parameters('appInsightsName')), '2015-05-01').AppId]",
+          "UserAppInsightsKey": "[reference(resourceId('Microsoft.Insights/components/', parameters('appInsightsName')), '2015-05-01').InstrumentationKey]",
+          "UserAppInsightsName": "msag-va-bot-5zvnb5e"
+        },
+        "resourceGroup": "msag-va-bot",
+        "type": "Microsoft.Web/sites/config"
+      }
+    ]
+  },
+  "resourceGroup": "msag-va-bot"
+}
+{
+  "applicationInsights": {
+    "type": "Object",
+    "value": {
+      "InstrumentationKey": "1b614dcd-76f1-4bfb-a67e-1bf113eef874"
+    }
+  },
+  "blobStorage": {
+    "type": "Object",
+    "value": {
+      "connectionString": "DefaultEndpointsProtocol=https;AccountName=msagvabot5zvnb5e;AccountKey=dtA8jgwP0T0RoqdffKParG7m+QO97PNLUK75PCZFsTTVvHD92fIwii8S2EBXNALlIbXvuxErAcXW8lfmnQUqMQ==;EndpointSuffix=core.windows.net",
+      "container": "transcripts"
+    }
+  },
+  "botWebAppName": {
+    "type": "String",
+    "value": "msag-va-bot-5zvnb5e"
+  },
+  "contentModerator": {
+    "type": "Object",
+    "value": {
+      "key": "c7f8f27ff55d4d78981648ad1ae63007"
+    }
+  },
+  "cosmosDb": {
+    "type": "Object",
+    "value": {
+      "authKey": "JpCHw4kEyd4Nf3yPyeZuID1ylddhQgT0hp6C0wzdh56MOcGRNIMT7FGesApSovjNdsPoK94V9bWAI8K4I4CX3w==",
+      "collectionId": "botstate-collection",
+      "cosmosDBEndpoint": "https://msag-va-bot-5zvnb5e.documents.azure.com:443/",
+      "databaseId": "botstate-db"
+    }
+  },
+  "luis": {
+    "type": "Object",
+    "value": {
+      "accountName": "msag-va-bot-luis-5zvnb5e",
+      "key": "40cf9fedee654f8597105e2afb6927c8",
+      "region": "australiaeast"
+    }
+  },
+  "qnaMaker": {
+    "type": "Object",
+    "value": {
+      "endpoint": "https://msag-va-bot-qnahost-5zvnb5e.azurewebsites.net",
+      "key": "7cd7674ce26e4ef8807b1a003b8be986"
+    }
+  }
+}

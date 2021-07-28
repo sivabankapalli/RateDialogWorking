@@ -1,0 +1,48 @@
+{
+  "authoringRegion": "australiaeast",
+  "culture": "en-us",
+  "hierarchical": true,
+  "useAllTrainingData": false,
+  "dontReviseUtterance": false,
+  "copyLuisData": true,
+  "normalizeDiacritics": true,
+  "services": [
+    {
+      "intentName": "l_General",
+      "appId": "a67fdbd7-72c7-422c-8efc-0d0da36c6ee1",
+      "authoringKey": "d94d31a82f9846eea8db836da0036124",
+      "version": "0.1",
+      "region": "australiaeast",
+      "type": "luis",
+      "name": "msag-va-boten_General",
+      "id": "1"
+    },
+    {
+      "intentName": "q_Chitchat",
+      "kbId": "a7559db4-58f4-47f4-860a-9e688194dbd3",
+      "subscriptionKey": "7cd7674ce26e4ef8807b1a003b8be986",
+      "type": "qna",
+      "name": "Chitchat",
+      "id": "2"
+    },
+    {
+      "intentName": "q_Faq",
+      "kbId": "a5dc58c9-912e-4e0a-a8de-6bc10bb2dc38",
+      "subscriptionKey": "7cd7674ce26e4ef8807b1a003b8be986",
+      "type": "qna",
+      "name": "Faq",
+      "id": "3"
+    }
+  ],
+  "serviceIds": [
+    "1",
+    "2",
+    "3"
+  ],
+  "appId": "7ebafcaa-7602-4330-bba7-321eefcf0212",
+  "authoringKey": "d94d31a82f9846eea8db836da0036124",
+  "version": "Dispatch",
+  "region": "australiaeast",
+  "type": "dispatch",
+  "name": "msag-va-boten_Dispatch"
+}
